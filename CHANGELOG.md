@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump Wizard from v1.2.17 to v2.3.0 ([#2458](https://github.com/getsentry/sentry-react-native/pull/2458))
+  - [changelog](https://github.com/getsentry/sentry-wizard/blob/master/CHANGELOG.md#v230)
+  - [diff](https://github.com/getsentry/sentry-wizard/compare/v1.2.17...v2.3.0)
+
 ## 4.7.1
 
 ### Fixes
