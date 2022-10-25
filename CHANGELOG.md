@@ -7,6 +7,12 @@
 - Remove duplicate sdk package record from envelope ([#2570](https://github.com/getsentry/sentry-react-native/pull/2570))
 - Fix `appHangsTimeoutInterval` -> `appHangTimeoutInterval` option name ([#2574](https://github.com/getsentry/sentry-react-native/pull/2574))
 
+### Dependencies
+
+- Bump Sample React Native from v0.67.4 to v0.70.3 ([#2459](https://github.com/getsentry/sentry-react-native/pull/2459))
+  - [changelog](https://github.com/facebook/react-native/blob/main/CHANGELOG.md#v0703)
+  - [diff](https://github.com/facebook/react-native/compare/v0.67.4...v0.70.3)
+
 ## 4.7.0
 
 ### Dependencies
